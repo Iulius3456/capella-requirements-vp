@@ -29,11 +29,16 @@ Require-Bundle: org.polarsys.capella.test.framework,
  org.polarsys.capella.core.model.handler,
  org.polarsys.capella.test.migration.ju,
 <<<<<<< Upstream, based on iulius/master
+<<<<<<< Upstream, based on iulius/master
  org.polarsys.kitalpha.vp.requirements.model.helpers,
  org.polarsys.capella.vp.requirements.importer.preferences
 =======
  org.polarsys.kitalpha.vp.requirements.model.helpers;bundle-version="0.12.1"
 >>>>>>> 58ab647 added preference keepXHTMLTags and fixed problems with tag <xhtml:br>
+=======
+ org.polarsys.kitalpha.vp.requirements.model.helpers,
+ org.polarsys.capella.vp.requirements.importer.preferences
+>>>>>>> b74cce5 bump version to 0.12.2
 Bundle-Localization: plugin
 Bundle-Vendor: %providerName
 Export-Package: org.polarsys.capella.vp.requirements.ju.testcases,
